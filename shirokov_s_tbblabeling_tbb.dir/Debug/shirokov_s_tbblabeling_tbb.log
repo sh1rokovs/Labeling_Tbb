@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/Sid/Desktop/tbblabeling/repository/pp_2021_spring_informatics/modules/task_3/shirokov_s_tbblabeling/CMakeLists.txt
+  labeling.cpp
+  TBB Warning: tbb.h contains deprecated functionality. For details, please see Deprecated Features appendix in the TBB reference manual.
+  main.cpp
+  TBB Warning: tbb.h contains deprecated functionality. For details, please see Deprecated Features appendix in the TBB reference manual.
+  Создание кода...
+  shirokov_s_tbblabeling_tbb.vcxproj -> C:\Users\Sid\Desktop\tbblabeling\repository\pp_2021_spring_informatics\build\bin\shirokov_s_tbblabeling_tbb.exe
